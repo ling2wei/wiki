@@ -1,0 +1,9 @@
+(1) 首次从本地上传到github上
+    1 git init  建仓
+    2 git add * 添加代码到本地仓库(*是代码添加全部更新的)
+    3 git commit -m "first commit"  提交到本地缓存
+    4 git remote add origin https://github.com/ling2wei/wiki.git  提交到远程github上
+    5 git push -u origin master   push到master分支
+
+(2) 把本地更新的代码同步更新到github上
+
