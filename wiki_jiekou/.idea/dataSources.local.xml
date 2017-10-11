@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="准生产-海融易" uuid="77f9e99b-6cab-466d-b344-46ce57269b17">
+      <secret-storage>master_key</secret-storage>
+      <user-name>dev</user-name>
+    </data-source>
+  </component>
+</project>
